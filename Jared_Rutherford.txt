@@ -1,0 +1,15 @@
+Name: Jared Rutherford
+Email: Jruthrfrd@gmail.com
+Cell: 503-701-1892
+About me:
+I am a second year student here at the University of Montana.
+I am studying Computer Science and Math as my two majors.
+Currently I plan to graduate after four years of school and then pursue a programming job, but I don't have anything specific in mind.
+In addition to CS and math, I am passionate about running, hiking, and playing video games.
+
+Schedule:
+Monday: Classes from 8:00 to 9:00, 10:00 to 11:00, 12:00 to 1:00, and 2:00 to 3:00
+Tuesday: Classes from 9:30 to 11:00 and 12:00 t0 1:00
+Wednesday: Classes from 8:00 to 9:00, 10:00 to 11:00, 12:00 to 1:00, and 2:00 to 3:00
+Thursday: Classes from 9:30 to 11:00 and 12:00 t0 1:00
+Friday: Classes from 8:00 to 9:00, 12:00 to 1:00, and 2:00 to 3:00
