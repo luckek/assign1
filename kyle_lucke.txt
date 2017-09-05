@@ -1,0 +1,13 @@
+Name: Kyle Lucke
+email: kyle.lucke@umontana.edu
+phone: 4063990327
+paragraph:
+
+Hi, my name is Kyle. I am a CSCI major / mathematics minor.
+I enjoy long walks on short bridges and dogs.
+In my free time I am usually plotting to take over the world orrrr playing video games.
+
+schedule: 
+M-F: Free after 3
+Weekends: Depends
+
